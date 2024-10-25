@@ -1,10 +1,10 @@
 The purpose of this repository is to provide solutions to various coding problems or math problems.
 I'll try to include:
 
-[i]   Explanation to the problem and desired result
+**[i]   Explanation to the problem and desired result**
 
-[ii]  Process to achieve the desired result
+**[ii]  Process to achieve the desired result**
 
-[iii] The coded solution to the problem
+**[iii] The coded solution to the problem**
 
-[iv]  Additional learning resources
+**[iv]  Additional learning resources**
