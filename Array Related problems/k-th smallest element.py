@@ -1,4 +1,8 @@
-arr = [7, 10, 4, 3, 20, 15]
-k= int(input(f"enter k less or equal to {len(arr)}: "))
-arr.sort()
-print(arr[k-1])
+class Solution:
+    #LeetCode solution to Kth smallest element
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        nums.sort(reverse=True)
+        return nums[k-1]
+            
+
+        
