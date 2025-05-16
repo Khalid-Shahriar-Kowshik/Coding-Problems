@@ -4,7 +4,7 @@ using namespace std;
 
 /*
     ================================
-    Program Description:
+    Program Description: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
     ----------------------------
     This program takes a floating-point number as input and checks whether it has a decimal (fractional) part.
 
